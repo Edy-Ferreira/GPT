@@ -125,6 +125,15 @@ h3 > a {
     margin-bottom: 30px;
 }
 
+.email label{
+    position: absolute;
+    margin-top: 45px;
+    color: #0FA47F;
+    margin-left: 10px;
+}
+
+
+
 .email input{
     width: 320px;
     position: relative;
@@ -133,13 +142,6 @@ h3 > a {
     margin-top: 55px;
     border: 1px solid #0FA47F;
     outline: none;
-}
-
-.email label{
-    position: absolute;
-    margin-top: 40px;
-    color: #0FA47F;
-    margin-left: 10px;
 }
 
 
